@@ -1,6 +1,6 @@
 {
   "name": "prismjs-papandreou",
-  "version": "1.6.0-patch1",
+  "version": "1.6.0-patch2",
   "description": "Lightweight, robust, elegant syntax highlighting. A spin-off project from Dabblet.",
   "main": "prism.js",
   "scripts": {
